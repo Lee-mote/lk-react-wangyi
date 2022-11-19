@@ -24,7 +24,7 @@
     "react-sticky": "^6.0.3",
     "react-grid-layout": "^0.18.2",
     "redux-thunk": "^2.3.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
